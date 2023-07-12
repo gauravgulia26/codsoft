@@ -1,4 +1,4 @@
-# codsoft
+# Codsoft
 # Credit Card Fraud Detection
 
 This repository contains code and resources for a credit card fraud detection project, focusing on highly imbalanced datasets. The goal of this project is to develop machine learning models that can accurately detect fraudulent credit card transactions.
